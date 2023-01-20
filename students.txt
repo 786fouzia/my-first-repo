@@ -1,2 +1,4 @@
 Name:fouzia
-city:guntursss
+city:gunturs
+state:ap
+area:sangadigunta
