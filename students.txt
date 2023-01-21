@@ -3,3 +3,4 @@ city:gunturs
 state:ap
 area:sangadigunta
 religion:muslim
+country:india
